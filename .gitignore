@@ -1,2 +1,5 @@
 #ignore the data directory 
-data/
+
+.ipynb_checkpoints/
+data/coins/
+data/lists/
